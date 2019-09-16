@@ -2,3 +2,8 @@ Bon dia
 Aquest és el primer dia del curs!!
 
 Canvi en el master
+Aquest és un canvi de la branca secondaria
+
+Creada superbranca
+
+Seguint amb canvis de la segona branca
