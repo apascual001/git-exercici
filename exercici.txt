@@ -1,2 +1,4 @@
 Bon dia 
 Aquest és el primer dia del curs!!
+
+Canvi en el master
