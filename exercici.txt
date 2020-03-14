@@ -1,6 +1,6 @@
 Bon dia master canvi 1
 Aquest és el primer dia del curs!!
-
+mastere
 Canvi en el master
 Aquest és un canvi de la branca secondaria
 
