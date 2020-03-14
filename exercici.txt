@@ -1,4 +1,4 @@
-Bon dia 
+Bon dia versio branca master
 Aquest és el primer dia del curs!!
 
 Canvi en el master
