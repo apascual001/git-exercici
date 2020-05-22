@@ -1,2 +1,2 @@
-# git-exercici master canvi 2
+# git-exercici master
 Repositori per l'exercici de Git
